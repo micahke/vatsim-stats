@@ -1,0 +1,20 @@
+{
+  "name": "vatsim-stats",
+  "version": "1.0.0",
+  "description": "a basic wrapper of the Vatsim API for access to some useful Vatsim data",
+  "main": "vatsim.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "vatsim",
+    "stats",
+    "plane"
+  ],
+  "author": "Micah Elias",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.22.0",
+    "node": "^16.10.0"
+  }
+}
