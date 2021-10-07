@@ -9,6 +9,6 @@ From the project directory, run ``npm install vatsim-stats``. Make sure ``npm`` 
 
 #### Get Full Airport MetaData
 This function simply gets all metadata in JSON format including arrivals, departures, and amount of controllers.
-```
+```javascript
 let data = vatsim-stats.apt_data.getAllAirportData(icao);
 ```
