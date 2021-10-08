@@ -37,4 +37,8 @@ async function getAllAiportData(icao) {
     return payload;
 }
 
+async function getBusiestAirports() {
+    // return the busiest airports
+}
+
 module.exports = { getAllAiportData }
