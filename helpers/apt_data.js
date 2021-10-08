@@ -34,7 +34,7 @@ async function getAllAiportData(icao) {
             // print error
         }
     }
-    console.log(payload);
+    return payload;
 }
 
 module.exports = { getAllAiportData }
