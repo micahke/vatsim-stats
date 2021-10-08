@@ -16,5 +16,6 @@
   "dependencies": {
     "axios": "^0.22.0",
     "node": "^16.10.0"
-  }
+  },
+  "repository": "https://github.com/yumyumcurryman/vatsim-stats"
 }
