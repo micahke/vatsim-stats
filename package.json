@@ -1,6 +1,6 @@
 {
   "name": "vatsim-stats",
-  "version": "1.0.3",
+  "version": "0.0.1",
   "description": "a basic wrapper of the Vatsim API for access to some useful Vatsim data",
   "main": "index.js",
   "scripts": {
